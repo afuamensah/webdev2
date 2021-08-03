@@ -1,6 +1,6 @@
 # Book O' Rama
 
-This was a recurring assignment that I added upon every week throughout the semester I took the Web Development 2 course. The assignment was to create a bookstore, and so I created a bookstore called Book O' Rama. This website allows users to create a book reading list with goals, calculate the price of a magazine based on quantity, and subscrive to an e-mailing list.
+This was a recurring assignment that I added upon every week throughout the semester I took the Web Development 2 course. The assignment was to create a bookstore, and so I created a bookstore called Book O' Rama. This website allows users to create a book reading list with goals, calculate the price of a magazine based on quantity, and subscribe to an e-mailing list.
 
 #### index.html
 The homepage of the website. Features an advertisement for a sale and an array of popular books.

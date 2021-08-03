@@ -20,4 +20,5 @@ Provides information about Book O' Rama through an accordion.
 #### email.html
 Form where the user can sign up for the website's newsletter and gets sent exclusive deals.
 
+
 ***This web app can be displayed in a browser once it is in your hands.***

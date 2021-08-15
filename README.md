@@ -22,4 +22,8 @@ Form where the user can sign up for the website's newsletter and gets sent exclu
 
 <br/>
 
+***These html files can be viewed on a browser once cloned/downloaded.***
+
+<br/>
+
 Final Grade: **99%**

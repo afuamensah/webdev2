@@ -22,4 +22,4 @@ Form where the user can sign up for the website's newsletter and gets sent exclu
 
 <br/>
 
-***This web app can be displayed in a browser once it is in your hands.***
+Final Grade: **99%**
